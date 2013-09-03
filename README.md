@@ -17,6 +17,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  
 If not, see 
 <http://www.gnu.org/licenses/>
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 This is the homepage for an E-Commerce website. It is developed using Twitter Bootstrap framework.
